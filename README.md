@@ -138,7 +138,7 @@ For a task like document parsing, where ground-truth answers exist, we have long
 
 OXR provides a free API so you can test parsing on your own documents without registering or requesting an API key.
 
-We'll keep the API free until our servers can no longer handle the load.
+We'll keep the free API online until we can no longer afford to run it.
 
 ⚠️ Note: We do not recommend using the Free OXR API in production. We do not guarantee service stability, and requests are queued, so processing speed may vary slightly.
 
