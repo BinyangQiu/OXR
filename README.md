@@ -49,7 +49,7 @@ OXR is the first to make its layout analysis module independent and pluggable. T
   - See [docs/benchmark.md](docs/benchmark.md) for the full results and instructions to reproduce the evaluations.
 - 🧩 Pluggable Layout Analysis. Document Structure on Your Terms.
 
-  - Layout analysis requirements vary widely across domains. Even for the same document, element categories, region boundaries, and grouping rules can differ depending on the business use case.
+  - Layout analysis requirements vary widely across domains. Even for the same document, element types, region boundaries, and grouping rules can differ depending on the business use case.
   - OXR is the first to make layout analysis independent and pluggable. Its built-in layout model can be replaced while retaining OXR’s recognition and reading order capabilities, enabling adaptation across document scenarios with minimal integration effort.
   - See the [How it works](#how-to-works) section below for details.
 
@@ -57,7 +57,7 @@ OXR is the first to make its layout analysis module independent and pluggable. T
 <details>
 <summary>Expand to see all 13 element types</summary>
 
-| Name | JSON category value (type) | Content or output format |
+| Name | JSON type value | Content or output format |
 |-|-|-|
 | Caption | Caption | Plain text |
 | Footnote | Footnote | Plain text |
