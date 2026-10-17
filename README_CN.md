@@ -297,7 +297,11 @@ SoMark 团队围绕文档解析工作开发了一系列生态工具，如果能�
 | somark-py | 服务SoMark、OXR的官方Python SDK & CLI | [https://github.com/SoMarkAI/somark-py](https://github.com/SoMarkAI/somark-py) |
 | somark-js | 服务SoMark、OXR的官方JS / TS SDK & CLI | https://github.com/SoMarkAI/somark-js |
 
+---
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/SoMarkAI/image_bed/main/OXR_README/assets/OXR_Star_on_GitHub.gif" width="800" />
+</div>
 
 ## 引用
 

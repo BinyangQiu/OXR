@@ -298,7 +298,11 @@ The SoMark team has developed a range of tools for document parsing. If you find
 | somark-py | The official Python SDK & CLI for SoMark and OXR | [https://github.com/SoMarkAI/somark-py](https://github.com/SoMarkAI/somark-py) |
 | somark-js | The official JS / TS SDK & CLI for SoMark and OXR | https://github.com/SoMarkAI/somark-js |
 
+---
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/SoMarkAI/image_bed/main/OXR_README/assets/OXR_Star_on_GitHub.gif" width="800" />
+</div>
 
 ## Citation
 
