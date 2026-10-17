@@ -294,6 +294,7 @@ The SoMark team has developed a range of tools for document parsing. If you find
 | SoMarkDown | The official Markdown parsing and rendering library for SoMark and OXR | https://github.com/SoMarkAI/SoMarkDown |
 | SoMarkDownViewer | A live editing application for SoMarkDown | https://github.com/SoMarkAI/SoMarkDownViewer |
 | SoPDF | A high-performance PDF processing library with a permissive open-source license | https://github.com/SoMarkAI/SoPDF |
+| Docision | MultiModal Jev for Document. | https://github.com/SoMarkAI/docision |
 | somark-py | The official Python SDK & CLI for SoMark and OXR | [https://github.com/SoMarkAI/somark-py](https://github.com/SoMarkAI/somark-py) |
 | somark-js | The official JS / TS SDK & CLI for SoMark and OXR | https://github.com/SoMarkAI/somark-js |
 
@@ -317,3 +318,16 @@ For now, please cite the OXR-1.0 open-source project. We will add a paper citati
 OXR is released under the [OXR Open Source License](./LICENSE), a custom license based on Apache 2.0 with additional terms.
 
 For further services, contact the SoMark team at [somark.ai](http://somark.ai).
+
+## Community
+
+Join the OXR community to discuss document parsing, share feedback, and keep up with the latest updates.
+
+- [Discord](https://discord.gg/msCPj2AtNN) — Discuss OXR, exchange tips, and share what you're building.
+- [X / Twitter](https://x.com/somarkai) — Keep up with OXR releases and news from SoMark.
+- [GitHub Issues](https://github.com/SoMarkAI/OXR/issues) — Report bugs, suggest features, and track progress.
+- **WeChat** — Scan the QR code below to join the OXR group and exchange ideas with other users.
+
+<p>
+  <img src="./assets/wechat-community.png" alt="QR code for the OXR WeChat group" width="200" />
+</p>

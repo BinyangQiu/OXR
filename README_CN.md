@@ -293,6 +293,7 @@ SoMark 团队围绕文档解析工作开发了一系列生态工具，如果能�
 | SoMarkDown | SoMark、OXR 官方的 Markdown 解析与渲染库 | https://github.com/SoMarkAI/SoMarkDown |
 | SoMarkDownViewer | SoMarkDown 的实时编辑应用 | https://github.com/SoMarkAI/SoMarkDownViewer |
 | SoPDF | 高性能、宽松开源许可的 PDF 处理库 | https://github.com/SoMarkAI/SoPDF |
+| Docision | 面向文档场景的多模态Jev | https://github.com/SoMarkAI/docision |
 | somark-py | 服务SoMark、OXR的官方Python SDK & CLI | [https://github.com/SoMarkAI/somark-py](https://github.com/SoMarkAI/somark-py) |
 | somark-js | 服务SoMark、OXR的官方JS / TS SDK & CLI | https://github.com/SoMarkAI/somark-js |
 
@@ -316,3 +317,16 @@ SoMark 团队围绕文档解析工作开发了一系列生态工具，如果能�
 OXR 采用 [OXR Open Source License](./LICENSE)，基于 Apache 2.0 的自定义许可证，附带额外条款。
 
 如果您需要更进一步的服务，可联系SoMark团队→[somark.ai](http://somark.ai)
+
+## 社区
+
+欢迎加入 OXR 社区，交流文档解析实践、反馈使用问题，获取最新动态。
+
+- [Discord](https://discord.gg/msCPj2AtNN) — 交流 OXR 使用经验、讨论技术问题，分享你正在做的项目。
+- [X / Twitter](https://x.com/somarkai) — 关注 OXR 版本发布与 SoMark 最新动态。
+- [GitHub Issues](https://github.com/SoMarkAI/OXR/issues) — 提交问题、提出功能建议，跟进处理进展。
+- **微信** — 扫描下方二维码，加入 OXR 微信交流群，与其他用户交流实践心得。
+
+<p>
+  <img src="./assets/wechat-community.png" alt="OXR 微信交流群二维码" width="200" />
+</p>
